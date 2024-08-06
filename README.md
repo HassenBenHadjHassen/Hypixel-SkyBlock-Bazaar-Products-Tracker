@@ -30,7 +30,7 @@ This Node.js application monitors the price of a specific item on the Hypixel Ba
   
 
 ````bash
-git clone https://github.com/yourusername/hypixel-bazaar-price-alert.git
+git clone https://github.com/HassenBenHadjHassen/Hypixel-SkyBlock-Bazaar-Products-Tracker.git
 ````
 
   
